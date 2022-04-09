@@ -1,4 +1,5 @@
 # Plot.ly Homework - Belly Button Biodiversity
+link to dashboard: https://dion-daniels.github.io/Plotly-challenge/index
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
 
